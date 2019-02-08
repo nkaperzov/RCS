@@ -167,9 +167,9 @@ namespace D6
 
             Console.WriteLine("Min int is: {0}", LIST.Min());
             Console.WriteLine("Max int is: {0}", LIST.Max());
-            
 
 
+            added
         }
 
     }
